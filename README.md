@@ -59,7 +59,7 @@
 		<img width="4%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" hspace=10>
 		<img width="4%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" hspace=10>
 		<img width="4%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" hspace=10>
-		<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" hspace=10>
+		<img width="4%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/notion-icon-seeklogo.com.svg" hspace=10>
 		<img width="4%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" hspace=10>
 		<img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" hspace=10>
 		<img width="4%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" hspace=10>
