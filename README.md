@@ -29,6 +29,15 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
+<div align="center">
+	<p>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
+</p>
+</div>
+
+
 <p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
