@@ -11,8 +11,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandroobregoon&theme=radical)](https://git.io/streak-stats) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10 )](https://github.com/alejandroobregoon/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10)](https://github.com/alejandroobregoon/github-profile-trophy)
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandroobregoon&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
 **Languages and Tools:**
 
