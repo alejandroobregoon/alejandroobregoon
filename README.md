@@ -45,7 +45,7 @@
 		<img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
 		<img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
 		<img width="5%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height=40 hspace=10>
-  <br />
+  <br /> <br /> 
  		<img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
 		<img width="5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 		<img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
@@ -54,8 +54,8 @@
 		<img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
 		<img width="5%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/sqlserver.svg">
 		<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-		<img width="5%" src="">
-  <br />
+		<img width="5%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg">
+  <br /> <br /> 
 		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
 		<img width="5%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg">
 		<img width="5%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
