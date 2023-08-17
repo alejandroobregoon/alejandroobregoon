@@ -5,7 +5,8 @@
 
 <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">   About me   </h2>  
+<h2 align="left" font-weight="bold">   About me   </h2> 
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
@@ -23,7 +24,11 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandroobregoon&theme=radical)](https://git.io/streak-stats) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10)](https://github.com/alejandroobregoon/github-profile-trophy)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10">
+ </p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10)](https://github.com/alejandroobregoon/github-profile-trophy) -->
 <!-- [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandroobregoon&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10) -->
 
 <!--📏LINE-->
