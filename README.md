@@ -79,10 +79,15 @@
 		<img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
 		<img width="5%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height=40 hspace=10>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+ 		<img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+		<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+		<img width="5%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/sqlserver.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+		<img width="5%" src="">
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
