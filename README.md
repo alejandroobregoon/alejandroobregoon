@@ -8,11 +8,18 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br>
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=alejandroobregoon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroobregoon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+ </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandroobregoon&theme=radical)](https://git.io/streak-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10)](https://github.com/alejandroobregoon/github-profile-trophy)
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandroobregoon&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+<!-- [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandroobregoon&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10) -->
 
 **Languages and Tools:**
 
