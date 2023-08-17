@@ -46,24 +46,24 @@
 		<img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
 		<img width="5%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height=40 hspace=10>
   <br /> <br /> 
- 		<img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-		<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-		<img width="5%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/sqlserver.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg">
+ 		<img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" hspace=10>
+		<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" hspace=10>
+		<img width="5%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/sqlserver.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" hspace=10>
   <br /> <br /> 
-		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg">
-		<img width="5%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" hspace=10>
+		<img width="5%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" hspace=10>
 </p>
 
 
