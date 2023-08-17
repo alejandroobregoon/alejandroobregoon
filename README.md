@@ -46,15 +46,15 @@
 		<img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
 		<img width="5%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height=40 hspace=10>
   <br /> <br /> 
- 		<img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" hspace=10>
-		<img width="5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" hspace=10>
-		<img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" hspace=10>
-		<img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" hspace=10>
-		<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" hspace=10>
-		<img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" hspace=10>
-		<img width="5%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/sqlserver.svg" hspace=10>
-		<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" hspace=10>
-		<img width="5%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" hspace=10>
+ 		<img width="4%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" hspace=10>
+		<img width="4%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" hspace=10>
+		<img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" hspace=10>
+		<img width="4%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" hspace=10>
+		<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" hspace=10>
+		<img width="4%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" hspace=10>
+		<img width="4%" src="https://github.com/alejandroobregoon/html_course/blob/main/Lesson%204/sqlserver.svg" hspace=10>
+		<img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" hspace=10>
+		<img width="4%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" hspace=10>
   <br /> <br /> 
 		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" hspace=10>
 		<img width="5%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" hspace=10>
