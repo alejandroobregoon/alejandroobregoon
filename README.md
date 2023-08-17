@@ -56,7 +56,14 @@
 		<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 		<img width="5%" src="">
   <br />
-
+		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg">
+		<img width="5%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">
 </p>
 
 
