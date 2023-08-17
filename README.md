@@ -22,6 +22,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alejandroobregoon&theme=onedark&row=1&margin-w=10)](https://github.com/alejandroobregoon/github-profile-trophy)
 <!-- [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandroobregoon&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10) -->
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
 **Languages and Tools:**
 
 <p>
@@ -69,6 +72,8 @@
 
 <!-- <img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>  -->
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
